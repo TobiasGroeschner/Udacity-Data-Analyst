@@ -24,9 +24,9 @@ This project is analysing the results of an A/B test run by an e-commerce websit
 
 This project covered three parts:
 
-- Part I - Probability(#Part-I---Probability)
-- Part II - A/B Test
-- Part III - Regression
+- [Part I-Probability](#part-i-probability)
+- [Part II-A/B Test](#part-ii-a/b-test)
+- [Part III-Regression](#part-iii-regression)
 
 ## File Description
 
