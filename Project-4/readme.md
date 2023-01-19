@@ -24,9 +24,11 @@
 
 The motivation of this project is to get data via a twitter API and check for data tidiness and quality. The logic is always *define* the issue, fix the issue via *code* and *test* if the issue has been fixed. 
 
-## File Descriptions
+## File Description
 
 - act_report.html
+- tweet-json.txt: twitter data in case request via twitter API does not work
+- twitter_archive_enhanced.csv: WeRateDogs Twitter archive
 - twitter_archive_master.csv: output of data wrangling
 - wrangle_act.html
 - wrangle_act.ipynb: 
@@ -35,8 +37,8 @@ The motivation of this project is to get data via a twitter API and check for da
     - cleaning data
     - storing data
 - wrangle_report.ipynb
-    - summary of wrangle_act.ipynb
-- tweet-json.txt: twitter data in case request via twitter API does not work
+    - results of wrangle_act.ipynb
+
 
 ## How to interact with this project
 
