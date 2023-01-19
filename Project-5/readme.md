@@ -1,18 +1,47 @@
-# ProsperLoan Data Exploration
+# Udacity data analyst Project-5: ProsperLoan Data Exploration
 
-## Dataset
-
-This [data set](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)
-contains 113,937 loans with 81 variables on each loan, including loan amount,
-borrower rate (or interest rate), current loan status, borrower income, and many others.
-This [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) explains the
-variables in the data set.
-The project objective is not expected to explore all of the variables in the dataset but focus on a few meaningful.
-
-## Summary of Findings
+## Table of Contents
+ * [Necessary packages](#necessary-packages)
+ * [Project Motivation](#project-motivation)
+ * [File Description](#file-description)
+ * [How to Interact With Project](#how-to-interact-with-project)
+ * [Conclusion](#conclusion)
 
 
-# Conclusions
+## Necessary packages:
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+
+
+## Project Motivation
+
+The project motivation is to explore meaningful variables of the dataset.
+
+The jupyter notebook performs:
+
+- basic data exploration
+- univariate exploration
+- bivariate exploration
+
+## File description
+
+- Explanatory_visualization_Slide_Deck.html
+- Explanatory_visualization_Slide_Deck.ipynb
+- Explanatory_visualization.ipynb
+- Explanatory_visualization.html
+- (prosperLoanData.csv)[(https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)]
+    - The columns are explained in the [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) 
+
+## How to Interact With Project
+
+Just clone the project and play around with the Notebook.
+
+`git clone https://github.com/TobiasGroeschner/Udacity-Data-Analyst.git`
+
+## Conclusions
 
 * **EmploymentStatus** majority of people work full time
 * **IncomeRange**: 31% of people earn $50000-74999 dollars
@@ -36,11 +65,5 @@ Borrower APR and ProsperRating_Numeric have a negative correlation. Borrower APR
 
 ## Key Insights for Presentation
 
-For the presentation, I focused mainly on features that are impactful for approval of loan status
-I performed univariate, bivariate and
-multivariate analysis on the selected variables.
-
-The major insights obtained is :
-
-
-The loan approval status is heavily dependent on the applicant's information on Income Range, Homeowner status and employment status.
+For the presentation, I focused mainly on features that are impactful for approval of loan status.
+The major insights obtained is: **The loan approval status is heavily dependent on the applicant's information on Income Range, Homeowner status and employment status.**
