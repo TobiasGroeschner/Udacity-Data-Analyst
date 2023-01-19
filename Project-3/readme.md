@@ -3,7 +3,7 @@
 ## Table of Contents
  * [Necessary packages](#necessary-packages)
  * [Project Motivation](#project-motivation)
- * [Components](#components)
+ * [File Description](#file-description)
  * [Instructions of How to Interact With Project](#instructions-of-how-to-interact-with-project)
  * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
 
@@ -33,6 +33,8 @@ countries.csv: tells us where the users are from
 ab_data.csv: data of the control and treatment group
 
 ## How to interact with this project
+
+Just clone the project and play around with the Notebook.
 
 ## Conclusion:
 
