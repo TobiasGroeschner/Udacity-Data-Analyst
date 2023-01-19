@@ -7,7 +7,6 @@
  * [How to Interact With Project](#how-to-interact-with-project)
  * [Conclusion](#conclusion)
 
-
 ## Necessary packages:
 
 - numpy
