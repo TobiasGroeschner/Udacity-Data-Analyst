@@ -6,9 +6,9 @@
  * [File Description](#file-description)
  * [How to Interact With Project](#how-to-interact-with-project)
  * [Conclusion](#conclusion)
-  *    [Part I-Probability](#part-i-probability)
-  *    [Part II-A/B Test](#part-ii-a/b-test)
-  *    [Part II-A/B Test](#part-iii-regression)
+  *    * [Part I-Probability](#part-i-probability)
+  *    * [Part II-A/B Test](#part-ii-a/b-test)
+  *    * [Part II-A/B Test](#part-iii-regression)
 
 
 ## Necessary packages
