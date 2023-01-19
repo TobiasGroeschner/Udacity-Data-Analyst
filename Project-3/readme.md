@@ -1,5 +1,13 @@
 # Udacity data analyst Project-3: Analyze A/B Test Results
 
+## Table of Contents
+ * [Necessary packages](#necessary-packages)
+ * [Project Motivation](#project-motivation)
+ * [Components](#components)
+ * [Instructions of How to Interact With Project](#instructions-of-how-to-interact-with-project)
+ * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
+
+
 ## Necessary packages
 
 - pandas
@@ -10,6 +18,12 @@
 ## Project Motivation
 
 This project is analysing the results of an A/B test run by an e-commerce website. The goal of this project is to decide if the company should implement the new internet site or keep the old one.
+
+This project covered three parts:
+
+- Part I - Probability(#Part-I---Probability)
+- Part II - A/B Test
+- Part III - Regression
 
 ## File Description
 
@@ -22,13 +36,13 @@ ab_data.csv: data of the control and treatment group
 
 ## Conclusion:
 
-### Conclusion [Part I - Probability](#probability)
+### Part I - Probability
 
 The proportion of users converted no matter on what page they landed (control vs treatment) was 0.1196.
 If we calculate these values for both groups indivually, the conversion rate of the control group is 0.1204. The converstion rate of the treatment group is 0.1188. 
 Here, you can already see that the difference is negleccatable (0.0016). First indication that it does not make sense to not implement the new site.
 
-### Conclusion [Part II - A/B Test]
+### Part II - A/B Test
 
 In Part II, we performed sampling distribution for the difference in converted individuals between the two pages. We did that for 10.000 iterations,
 
@@ -41,7 +55,7 @@ p = 0.11959708724499628
 This resulted in a new_page converted ($p_{new}$) = 0.12057669809373064 and old_page_converted ($p_{old}$) = 0.12057669809373064. The difference between these two is 0.0012022745905573284. 
 When we simulate  this calulation 10.000 times and  analyze the proportion of p_diffs that are greater then what we actually obsered, the proportion is tiny. Namely = -0.0015782389853555567. Again, it strongly suggests that the new page shall not be implemented.
 
-### Conclusion [Part III - Regression]
+### Part III - Regression
 
 In Part III, we saw see that the result we achieved in the previous A/B test can also be acheived by performing regression. We first analysed if the landing page had any influence on the conversion rate. The P>|z| from the column ab_page (dummy column of landing page) turned out to be 0.190. Values ≥ 0.1 indicating insufficient evidence for rejectinig the $H_{0}$.
 
