@@ -29,7 +29,11 @@ The jupyter notebook performs:
 
 - Explanatory_visualization_Slide_Deck.html
 - Explanatory_visualization_Slide_Deck.ipynb
+    - Preliminary Wrangling
+    - Univariate Exploration
+    - Multivariate Exploration
 - Explanatory_visualization.ipynb
+    - bascially the same as Explanatory_visualization_Slide_Deck.ipynb
 - Explanatory_visualization.html
 - [prosperLoanData.csv](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)]
     - The columns are explained in the [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) 
@@ -45,7 +49,7 @@ Just clone the project and play around with the Notebook.
 * **EmploymentStatus:** majority of people work full time
 * **IncomeRange:** 31% of people earn $50000-74999 dollars
 * **ProsperScore:** normal distribution
-* **StatedMonthlyIncome:**: Monthly Income is right skewed: very few people be have a higher salary. Majority of the borrowers are having a salary with less than 10000 USD and, peak is observed at 5000 USD
+* **StatedMonthlyIncome:** Monthly Income is right skewed: very few people be have a higher salary. Majority of the borrowers are having a salary with less than 10000 USD and, peak is observed at 5000 USD
 * **LoanOriginalAmount:** Right skewed with multiple peaks observed around 4000 USD, 10000 USD and 17000 USD.
 * **Investors:** Majority of the investors are between 0 and 100
 
@@ -56,7 +60,7 @@ Columns which have a positive correlation are for example:
 
 Columns which have a negative correlation are for example:
 
-**Borrower APR** and **ProsperRating_Numeric**
+- **Borrower APR** and **ProsperRating_Numeric**
 
 
 ## Key Insights for Presentation
