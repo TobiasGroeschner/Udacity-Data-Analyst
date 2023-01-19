@@ -26,7 +26,6 @@ data
 - |- city_data.csv  
 - |- city_list.csv 
 - |- global_data.csv 
-- |- InsertDatabaseName.db 
 
 ## How to interact with this project
 
