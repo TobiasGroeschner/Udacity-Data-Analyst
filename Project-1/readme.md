@@ -23,10 +23,10 @@ I compared the global temperature to the temperature of my home town.
 
 data    
 
-|- city_data.csv  
-|- city_list.csv 
-|- global_data.csv 
-|- InsertDatabaseName.db 
+- |- city_data.csv  
+- |- city_list.csv 
+- |- global_data.csv 
+- |- InsertDatabaseName.db 
 
 ## How to interact with this project
 
