@@ -4,8 +4,9 @@
  * [Necessary packages](#necessary-packages)
  * [Project Motivation](#project-motivation)
  * [File Description](#file-description)
- * [Instructions of How to Interact With Project](#instructions-of-how-to-interact-with-project)
- * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
+ * [How to Interact With Project](#how-to-interact-with-project)
+ * [Conclusion](#conclusion)
+  *  * [Part I-Probability](#part-i-probability)
 
 
 ## Necessary packages
@@ -36,9 +37,11 @@ ab_data.csv: data of the control and treatment group
 
 Just clone the project and play around with the Notebook.
 
+`git clone https://github.com/TobiasGroeschner/Udacity-Data-Analyst.git`
+
 ## Conclusion:
 
-### Part I - Probability
+### Part I-Probability
 
 The proportion of users converted no matter on what page they landed (control vs treatment) was 0.1196.
 If we calculate these values for both groups indivually, the conversion rate of the control group is 0.1204. The converstion rate of the treatment group is 0.1188. 
