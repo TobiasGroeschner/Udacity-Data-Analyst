@@ -40,14 +40,13 @@ Just clone the project and play around with the Notebook.
 
 `git clone https://github.com/TobiasGroeschner/Udacity-Data-Analyst.git`
 
-## Conclusions
+## Conclusion
 
-* **EmploymentStatus** majority of people work full time
-* **IncomeRange**: 31% of people earn $50000-74999 dollars
-* **ProsperScore**: normal distribution
+* **EmploymentStatus:** majority of people work full time
+* **IncomeRange:** 31% of people earn $50000-74999 dollars
+* **ProsperScore:** normal distribution
 
-* **StatedMonthlyIncome:**
- Monthly Income is right skewed: very few people be have a higher salary. Majority of the borrowers are having a salary with less than 10000 USD and, peak is observed at 5000 USD
+* **StatedMonthlyIncome:**: Monthly Income is right skewed: very few people be have a higher salary. Majority of the borrowers are having a salary with less than 10000 USD and, peak is observed at 5000 USD
 
 * **LoanOriginalAmount:** Right skewed with multiple peaks observed around 4000 USD, 10000 USD and 17000 USD.
 
@@ -55,11 +54,12 @@ Just clone the project and play around with the Notebook.
 
 Columns which have a positive correlation are for example:
 
-- Borrower APR (annual percentage rate) & Borrower Rate have a positve correlation
-- Borrower APR & EstimatedEffectedYield have a positive correlation
+- **Borrower APR** (annual percentage rate) & **Borrower Rate** have a positve correlation
+- **Borrower APR** & EstimatedEffectedYield have a positive correlation
 
+Columns which have a negative correlation are for example:
 
-Borrower APR and ProsperRating_Numeric have a negative correlation. Borrower APR & ListCategory Numeric do not seem to correlate.
+**Borrower APR** and **ProsperRating_Numeric**
 
 
 ## Key Insights for Presentation
