@@ -42,7 +42,7 @@ The motivation of this project is to get data via a twitter API and check for da
 
 In principle, you can simply clone the project:
 
-git clone https://github.com/TobiasGroeschner/Udacity-Data-Analyst.git
+`git clone https://github.com/TobiasGroeschner/Udacity-Data-Analyst.git`
 
 To interact with the twitter API, you would have to set up a developer account on developer.twitter.com.
 
@@ -61,4 +61,3 @@ See wrangle_report.ipynb
 
 ## Acknowledgements:
 - udacity & twitter for providing this project.
-- 
