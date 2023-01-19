@@ -35,7 +35,7 @@ The jupyter notebook performs:
 - Explanatory_visualization.ipynb
     - bascially the same as Explanatory_visualization_Slide_Deck.ipynb
 - Explanatory_visualization.html
-- [prosperLoanData.csv](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)]
+- [prosperLoanData.csv](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1547699802003000)
     - The columns are explained in the [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) 
 
 ## How to Interact With Project
