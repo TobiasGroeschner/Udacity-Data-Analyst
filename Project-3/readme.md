@@ -30,10 +30,10 @@ This project covered three parts:
 
 ## File Description
 
-Analyze_ab_test_results_notebook.ipynb: Jupyter notebook with all the analysis
-Analyze_ab_test_results_notebook.html: the Jupyter notebook as an .html file
-countries.csv: tells us where the users are from
-ab_data.csv: data of the control and treatment group
+- Analyze_ab_test_results_notebook.ipynb: Jupyter notebook with all the analysis
+- Analyze_ab_test_results_notebook.html: the Jupyter notebook as an .html file
+- countries.csv: tells us where the users are from
+- ab_data.csv: data of the control and treatment group
 
 ## How to interact with this project
 
