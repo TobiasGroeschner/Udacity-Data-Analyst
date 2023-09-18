@@ -14,3 +14,7 @@ Each project contains a detailed README file documenting the project description
 | 03 		  | [Analyze A/B Test Results](/Project-3/)	|
 | 04 		  | [Wrangle and Analyze Data](/Project-4/)	|
 | 05 		  | [ProsperLoan Data Exploration](/Project-4/)	|
+
+## Nanodegree Certificate
+
+![Tobias Gröschner Certificate](data_analyst_cert.png)
